@@ -3,7 +3,7 @@
 }
 
 #hero {
-    height: 600px;
+    height: 200px;
     width: 100%;
     background: url("../images/hero.jpg") no-repeat center center/cover;
     position: relative;
