@@ -21,8 +21,15 @@ h3 {
     font-family: var(--secondary-font);
     color: var(--secondary-color);
 }
+
 #navbar .logo {
-    width: 30px;
+    width: 50px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #hero {
