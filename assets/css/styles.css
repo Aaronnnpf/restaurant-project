@@ -9,6 +9,18 @@
     --secondary-color: #ffffff;
 }
 
+body {
+    font-family: var(--primary-font);
+    color: var(--primary-color);
+    padding-top: 50px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+}
 #navbar .logo {
     width: 30px;
 }
