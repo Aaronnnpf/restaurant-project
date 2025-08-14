@@ -13,6 +13,11 @@ body {
     font-family: var(--primary-font);
     color: var(--primary-color);
     padding-top: 50px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
 }
 
 h1,
@@ -22,14 +27,29 @@ h3 {
     color: var(--secondary-color);
 }
 
-#navbar .logo {
-    width: 50px;
+.review {
+    justify-content: center;
+    align-items: center;
 }
 
-.card {
+#navbar .logo {
+    width: 50px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.card-container {
+    display: flex;
+    gap: 20px;
+}
+
+#speciality-dishes .card {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 400px;
+    height: 450px;
+    border-radius: 8px;
 }
 
 #hero {
