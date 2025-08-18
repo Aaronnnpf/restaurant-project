@@ -56,3 +56,16 @@ h3 {
     background: url("../images/hero.jpg") no-repeat center center/cover;
     position: relative;
 }
+
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
