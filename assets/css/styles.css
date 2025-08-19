@@ -25,6 +25,11 @@ h3 {
     color: var(--secondary-color);
 }
 
+h1,
+h2 {
+    text-transform: uppercase;
+}
+
 .review {
     justify-content: center;
     align-items: center;
