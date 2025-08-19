@@ -44,22 +44,30 @@ h2 {
 .card-container {
     display: flex;
     gap: 20px;
+    justify-content: center;
 }
 
 #speciality-dishes .card {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     width: 400px;
     height: 450px;
     border-radius: 8px;
 }
 
 #hero {
+    text-align: center;
     height: 200px;
     width: 100%;
     background: url("../images/hero.jpg") no-repeat center center/cover;
     position: relative;
+}
+
+#review {
+    text-align: center;
+    justify-content: flex-end;
 }
 
 /* Google map */
