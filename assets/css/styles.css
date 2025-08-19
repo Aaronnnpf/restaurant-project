@@ -87,33 +87,46 @@ h2 {
 
 /* Footer */
 
-footer {
+.footer {
+    margin-top: 150px;
+    width: 100%;
+    padding: 100px 15%;
+    background-color: lightsalmon;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    background-color: lightgray;
-    color: #000000;
-    flex-wrap: wrap;
 }
 
-.footer-left,
-.footer-center,
-.footer-right {
-    flex: 1;
+.footer div {
     text-align: center;
 }
 
-.footer-left {
-    width: 300px;
-    text-align: left;
+.col-2 {
+    flex-grow: 2;
 }
 
-.footer-right {
-    width: 100px;
-    text-align: right;
+.col-2 button {
+    background: transparent;
+    border: 2px solid #000000;
+    width: 200px;
+    height: 45px;
+    border-radius: 40px;
+    padding: 10px 30px;
+    font-size: 15px;
+    cursor: pointer;
 }
 
-.footer-center {
-    width: 100px;
+.footer div h3 {
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+.col-3 a {
+    display: block;
+    color: #000000;
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+
+.social-icons {
+    margin-top: 30px;
 }
