@@ -16,6 +16,7 @@ body {
     display: flex;
     margin: 0;
     padding: 0;
+    background-color: lightcyan;
 }
 
 h1,
@@ -65,7 +66,7 @@ h2 {
     position: relative;
 }
 
-#review {
+#section {
     text-align: center;
     justify-content: center;
 }
