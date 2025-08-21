@@ -1,159 +1,239 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-    content="Dolce Vita family owned Italian Restaurant">
-    <title>Dolce Vita | Home </title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Dolce Vita family owned Italian Restaurant"
+    />
+    <title>Dolce Vita | Home</title>
 
     <!-- favicons tab icon -->
-     <link rel="icon" sizes="180x180" href="assets/images/icon.png">
+    <link rel="icon" sizes="180x180" href="assets/images/icon.png" />
 
     <!-- Bootstrap css -->
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" 
-            integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+      crossorigin="anonymous"
+    />
 
     <!-- Custom css -->
-     <link rel="stylesheet" href="assets/css/styles.css">
-</head>
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
 
-<!-- Classes on body set to work with mt-auto on footer to ensure it always stays at the bottom of the page -->
-<body class="d-flex flex-column min-vh-100"> 
-
-        <!-- Navigation -->
-    <nav id="navbar" class="navbar navbar-expand-lg">
-        <div class="container">
-            <a class="navbar-brand" href="index.html">
-                <img src="assets/images/icon.png" alt="Dolce Vito logo" class="logo">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">About Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="booking.html">Booking</a>
-                    </li>
-                </ul>
-            </div>
+  <!-- Classes on body set to work with mt-auto on footer to ensure it always stays at the bottom of the page -->
+  <body class="d-flex flex-column min-vh-100">
+    <!-- Navigation -->
+    <nav id="navbar" class="navbar navbar-expand-lg fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">
+          <img
+            src="assets/images/icon.png"
+            alt="Dolce Vito logo"
+            class="logo"
+          />
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="index.html"
+                >Home</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="booking.html">Booking</a>
+            </li>
+          </ul>
         </div>
+      </div>
     </nav>
 
-     <main>
-        <!-- Header -->
+    <main>
+      <!-- Header -->
       <!-- Hero -->
- <section id="hero">
-      <header id="header" class="container section">
+      <section id="hero">
+        <header class="container text-center">
+          <div class="row">
+            <div class="col-12 col-xl-6 col-md-4">
+              <h1 class="display-3 text-center">Dolce Vito</h1>
+              <h3 class="lead display-6 text-center">
+                Taste the secrets of Italian home cooking
+              </h3>
+            </div>
+          </div>
+        </header>
+      </section>
+      <div class="col-12 col-xl-6 col-md-4 text-center text-xl-center">
+        <p>
+          We are a 3rd generation Italian family from Anghiari a small hill town
+          in the province of Arezzo, Tuscany, Italy. We have cooking and pasta
+          making deeprooted into our Ancestry and its with great pleasure we can
+          finally show you what hearty Italian home cooking tastes like and how
+          it makes you feel with every drip of pasta sauce made fresh to the
+          pasta that was made this morning, this an experiance you will never
+          forget. <br /><br /><strong>WELCOME TO DOLCE VITO</strong>
+        </p>
+      </div>
+
+      <!-- Speciality dishes section needs resizing to add 3 side by side across all screens -->
+      <section
+        id="speciality-dishes"
+        class="card-container justify-content-center"
+      >
+        <div class="row col-12 text-center text-xl-center">
+          <h2 style="color: black">Speciality Dishes</h2>
+        </div>
         <div class="row">
-            <div class="col-12 col-xl-6 text-center text-xl-center">
-                <h1 class="display-3">Dolce Vito</h1>
-                <h3 class ="lead display-6">Taste the secrets of Italian home cooking</h3>
-                </div>
-                </div>
-            </header>
-                </section>
-                <div class="col-12 col-xl-6 text-center text-xl-center">
-                    <p>We are a 3rd generation Italian family from Anghiari a small hill town in the province of Arezzo, Tuscany, Italy. 
-            We have cooking and pasta making deeprooted into our Ancestry and its with great pleasure we can finally show you what hearty Italian home cooking tastes like and how it makes you feel with every drip of pasta sauce made fresh to the pasta that was made this morning, this an experiance you will never forget. 
-            <br><br><strong>WELCOME TO DOLCE VITO</strong></p>
-                </div>
-
-            <!-- Speciality dishes section needs resizing to add 3 side by side across all screens -->
-            <section id="speciality-dishes" class="card-container">
-                <div class="row">
-                    <div class="col-12 text-center text-xl-center">
-            <h2 class="display-6" style="color: black;">Speciality Dishes</h2>
-            </div>
-            <div class="col-12 col-md-6 col-xl-3">
+          <div class="col-12 col-md-6 col-xl-3">
             <div class="card">
-            <img class="card-img-top" src="assets/images/carbanara.jpg"
-            alt="Pasta Carbanara">
-            <div class="card-body">
-            <h3 class="card-title">Carbonara</h3>
-            <p class="card-text">The must have dish, A good Italian knows how to make this classic.</p>
+              <img
+                class="card-img-top"
+                src="assets/images/carbanara.jpg"
+                alt="Pasta Carbanara"
+              />
+              <div class="card-body">
+                <h3 class="card-title">Carbonara</h3>
+                <p class="card-text">
+                  The must have dish, A good Italian knows how to make this
+                  classic.
+                </p>
+              </div>
             </div>
-            </div>
-            </div>
-
-            <div class="col-12 col-md-6 col-xl-3">
-            <div class="card">
-            <img class="card-img-top" src="assets/images/pizza-2.jpg"
-            alt="Pizza">
-            <div class="card-body">
-            <h3 class="card-title">Pizza</h3>
-            <p class="card-text">Italian classic soft, light and crafted with love.</p>
-            </div>
-            </div>
+          </div>
         </div>
 
-        <div class="col-12 col-md-6 col-xl-3">
-            <div class="card">
-            <img class="card-img-top" src="assets/images/shrimp-linguine.jpg"
-            alt="Shrimp linguine">
+        <div class="row col-12 col-md-4 col-xl-3">
+          <div class="card">
+            <img
+              class="card-img-top"
+              src="assets/images/pizza-2.jpg"
+              alt="Pizza"
+            />
             <div class="card-body">
-            <h3 class="card-title">Shrimp Linguine</h3>
-            <p class="card-text">Fresh caught, tasty with a spiced source to add a kick.</p>
+              <h3 class="card-title">Pizza</h3>
+              <p class="card-text">
+                Italian classic soft, light and crafted with love.
+              </p>
             </div>
-            </div>
-            </div>
-        </section>
+          </div>
+        </div>
 
-    
-        <section id="review" class="col-12 col-md-6 col-xl-3">
-            <div class="container-section">
-                <div class="column justify-content-center">
-            <h2 class="text-center" style="color: black;">What our customers say</h2>
-            <p><strong>Maria</strong> - "Absolutley stunning food, service was great, food went down a treat and a wonderful atmosphere"</p>
-            <p><strong>Antonio</strong> - "Couldnt agree more was a taste of the homeland just how momma used to make it"</p>
-            <p><strong>Danielle</strong> - "The location is so easy to find, parking is super easy and ease of website allowed booking to be a breeze. The food 11/10"</p>
+        <div class="row col-12 col-md-4 col-xl-3">
+          <div class="card">
+            <img
+              class="card-img-top"
+              src="assets/images/shrimp-linguine.jpg"
+              alt="Shrimp linguine"
+            />
+            <div class="card-body">
+              <h3 class="card-title">Shrimp Linguine</h3>
+              <p class="card-text">
+                Fresh caught, tasty with a spiced source to add a kick.
+              </p>
             </div>
-            </div>
-        </header>
-        </section>
+          </div>
+        </div>
+      </section>
+
+      <section id="review" class="container mb-5">
+        <div class="row justify-content-center">
+          <div class="col-12 col-md-10 col-lg-8">
+            <h2 class="text-center" style="color: black">
+              What our customers say
+            </h2>
+            <p>
+              <strong>Maria</strong> - "Absolutley stunning food, service was
+              great, food went down a treat and a wonderful atmosphere"
+            </p>
+            <p>
+              <strong>Antonio</strong> - "Couldnt agree more was a taste of the
+              homeland just how momma used to make it"
+            </p>
+            <p>
+              <strong>Danielle</strong> - "The location is so easy to find,
+              parking is super easy and ease of website allowed booking to be a
+              breeze. The food 11/10"
+            </p>
+          </div>
+        </div>
+      </section>
     </main>
 
     <div class="footer">
-        <div class="row">
+      <div class="row">
         <div class="col-12">
-            <h3 style="color: black;">Address and Contact</h3>
-            <p>1 Edgbaston St<br>Birmingham<br>B5 5BB<br>DolceVito@food.com<br>0121 234 56789
-            </p>
+          <h3 style="color: black">Address and Contact</h3>
+          <p>
+            1 Edgbaston St<br />Birmingham<br />B5 5BB<br />DolceVito@food.com<br />0121
+            234 56789
+          </p>
         </div>
 
         <div id="book-btn" class="col-12">
-            <form>
+          <form>
             <button type="submit">Book now</button>
-            </form>
+          </form>
         </div>
 
         <div id="social-icon" class="col-12">
-            <h3 style="color: black;">Socials</h3>
-            <div class="Social-icons">
-            <a href="https://www.facebook.com" target="_blank"
-             aria-label="Visit our Facebook page (opens in a new tab)" rel="noopener"><i
-             class="fa-brands fa-square-facebook"></i></a>
-            <a href="https://www.x.com" target="_blank"
-             aria-label="Visit our X feed (opens in a new tab)" rel="noopener"><i
-             class="fa-brands fa-x-twitter"></i></a>
-            <a href="https://www.instagram.com" target="_blank" aria-label="Visit our Instagram page (opens in a new tab)"
-             rel="noopener"><i class="fa-brands fa-instagram"></i></a>
-    </div>
-    </div>
-    </div>
+          <h3 style="color: black">Socials</h3>
+          <div class="Social-icons">
+            <a
+              href="https://www.facebook.com"
+              target="_blank"
+              aria-label="Visit our Facebook page (opens in a new tab)"
+              rel="noopener"
+              ><i class="fa-brands fa-square-facebook"></i
+            ></a>
+            <a
+              href="https://www.x.com"
+              target="_blank"
+              aria-label="Visit our X feed (opens in a new tab)"
+              rel="noopener"
+              ><i class="fa-brands fa-x-twitter"></i
+            ></a>
+            <a
+              href="https://www.instagram.com"
+              target="_blank"
+              aria-label="Visit our Instagram page (opens in a new tab)"
+              rel="noopener"
+              ><i class="fa-brands fa-instagram"></i
+            ></a>
+          </div>
+        </div>
+      </div>
     </div>
 
+    <!-- Bootstrap JS -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+      crossorigin="anonymous"
+    ></script>
 
-    <script src="https://kit.fontawesome.com/904d127e1b.js" crossorigin="anonymous"></script>
-</body>
+    <script
+      src="https://kit.fontawesome.com/904d127e1b.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
