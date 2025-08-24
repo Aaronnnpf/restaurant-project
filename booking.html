@@ -1,94 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Booking</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Booking</title>
 
-    <!-- favicons tab icon -->
-     <link rel="icon" sizes="180x180" href="assets/images/icon.png">
+  <!-- Favicon -->
+  <link rel="icon" sizes="180x180" href="assets/images/icon.png">
 
-    <!-- Bootstrap css -->
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" 
-            integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Custom css -->
-     <link rel="stylesheet" href="assets/css/styles.css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 
-<!-- Classes on body set to work with mt-auto on footer to ensure it always stays at the bottom of the page -->
 <body class="d-flex flex-column min-vh-100"> 
 
-        <!-- Navigation -->
-<nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container">
-    <a class="navbar-brand" href="index.html">
-      <img src="assets/images/icon.png" alt="Dolce Vito logo" class="logo">
-    </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="index.html">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="about.html">About Us</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact Us</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="booking.html" aria-current="page">Booking</a>
-        </li>
-      </ul>
+  <!-- Navigation -->
+  <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <img src="assets/images/icon.png" alt="Dolce Vito logo" class="logo">
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+          <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+          <li class="nav-item"><a class="nav-link active" href="booking.html" aria-current="page">Booking</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
 
-<!-- Hero -->
-<section id="hero" class="py-5 bg-light text-center">
-  <div class="container">
-    <h1 class="display-3">Booking</h1>
-  </div>
-</section>
-<body>  
-    
+  <!-- Hero -->
+  <section id="hero" class="py-5 bg-light text-center">
+    <div class="container">
+      <h1 class="display-3">Booking</h1>
+    </div>
+  </section>
+
+  <!-- Booking Form -->
+  <div class="container my-5">
     <form>
-  <div class="mb-3">
-    <label for="date" calss="date-picker">Date</label>
-    <input type="date" class="form-control" id="date-picker" required>
+      <div class="mb-3">
+        <label for="date-picker" class="form-label">Date</label>
+        <input type="date" class="form-control" id="date-picker" required>
+      </div>
+
+      <div class="mb-3">
+        <label for="full-name" class="form-label">Full Name</label>
+        <input type="text" class="form-control" id="full-name" required>
+      </div>
+
+      <div class="mb-3">
+        <label for="contact-number" class="form-label">Contact Number</label>
+        <input type="tel" class="form-control" id="contact-number" required>
+      </div>
+
+      <div class="mb-3">
+        <label for="email-address" class="form-label">Email Address</label>
+        <input type="email" class="form-control" id="email-address" required>
+      </div>
+
+      <div class="mb-3 form-check">
+        <p>Please read <a href="terms.html" class="link-primary">Terms and Conditions</a></p>
+        <input type="checkbox" class="form-check-input" id="terms" required>
+        <label class="form-check-label" for="terms">Confirm</label>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Book Now</button>
+    </form>
+  </div>
+
+  <!-- Google Map -->
+  <div class="container my-5">
+    <div class="ratio ratio-16x9">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.07357978131!2d-1.8925990895458285!3d52.4778034548292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc8881167e0f%3A0x74d394afcdc773e2!2sEdgbaston%20St%2C%20Birmingham%20B5%205BB!5e0!3m2!1sen!2suk!4v1755513565059!5m2!1sen!2suk" 
+              style="border:0;" allowfullscreen loading="lazy"></iframe>
     </div>
-    <div>
-    <label for="full-name" class="form-label">Full Name</label>
-    <input type="name" class="form-control" id="full-name" aria-describedby="full-name" required>
   </div>
-  <div class="mb-3">
-    <label for="contact-number" class="form-label">Contact Number</label>
-    <input type="number" class="form-control" id="contact-number" required>
-  </div>
-  <div class="mb-3">
-    <label for="email" class="email">Email Address</label>
-    <input type="email" class="form-control" id="email-address" required>
-  </div>
-  <div class="mb-3 form-check">
-    <p>Please read <a href="terms.html" class="link-primary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Terms and Conditions</a></p>
-    <input type="checkbox" class="form-check-input" id="terms" required>
-    <label class="form-check-label" for="exampleCheck1">Confirm</label>
-  </div>
-  <button type="submit" class="btn btn-primary">Book Now</button>
-</form>
 
-
-<!-- Google map -->
-    <div class="google-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.07357978131!2d-1.8925990895458285!3d52.4778034548292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc8881167e0f%3A0x74d394afcdc773e2!2sEdgbaston%20St%2C%20Birmingham%20B5%205BB!5e0!3m2!1sen!2suk!4v1755513565059!5m2!1sen!2suk" 
-        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-
-     <!-- Footer -->
+  <!-- Footer -->
     <div class="footer bg-light py-4">
   <div class="container">
     <div class="row text-center text-md-start">
@@ -131,6 +129,17 @@
     </div>
   </div>
 </div>
-<script src="https://kit.fontawesome.com/904d127e1b.js" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap JS -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://kit.fontawesome.com/904d127e1b.js"
+      crossorigin="anonymous"
+    ></script>
 </body>
 </html>
