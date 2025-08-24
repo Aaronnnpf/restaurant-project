@@ -27,7 +27,7 @@
   <!-- Classes on body set to work with mt-auto on footer to ensure it always stays at the bottom of the page -->
   <body class="d-flex flex-column min-vh-100">
     <!-- Navigation -->
-    <nav id="navbar" class="navbar navbar-expand-lg fixed-top">
+    <nav id="navbar" class="navbar navbar-expand-lg">
       <div class="container">
         <a class="navbar-brand" href="index.html">
           <img
@@ -190,50 +190,48 @@
       </section>
     </main>
 
-    <div class="footer">
-      <div class="row">
-        <div class="col-12 col-md-6 col-xl-4">
-          <h3 style="color: black">Address and Contact</h3>
-          <p>
-            1 Edgbaston St<br />Birmingham<br />B5 5BB<br />DolceVito@food.com<br />0121
-            234 56789
-          </p>
-        </div>
+    <div class="footer bg-light py-4">
+  <div class="container">
+    <div class="row text-center text-md-start">
 
-        <div id="book-btn" class="col-12 col-md-6 col-xl-4">
-          <form>
-            <button type="submit">Book now</button>
-          </form>
-        </div>
+      <!-- Address and Contact -->
+      <div class="col-12 col-md-6 col-xl-4 mb-4 mb-xl-0">
+        <h3 class="text-dark">Address and Contact</h3>
+        <p>
+          1 Edgbaston St<br />
+          Birmingham<br />
+          B5 5BB<br />
+          DolceVito@food.com<br />
+          0121 234 56789
+        </p>
+      </div>
 
-        <div id="social-icon" class="col-12 col-md-6 col-xl-4">
-          <h3 style="color: black">Socials</h3>
-          <div class="Social-icons">
-            <a
-              href="https://www.facebook.com"
-              target="_blank"
-              aria-label="Visit our Facebook page (opens in a new tab)"
-              rel="noopener"
-              ><i class="fa-brands fa-square-facebook"></i
-            ></a>
-            <a
-              href="https://www.x.com"
-              target="_blank"
-              aria-label="Visit our X feed (opens in a new tab)"
-              rel="noopener"
-              ><i class="fa-brands fa-x-twitter"></i
-            ></a>
-            <a
-              href="https://www.instagram.com"
-              target="_blank"
-              aria-label="Visit our Instagram page (opens in a new tab)"
-              rel="noopener"
-              ><i class="fa-brands fa-instagram"></i
-            ></a>
-          </div>
+      <!-- Book Now -->
+      <div id="book-btn" class="col-12 col-md-6 col-xl-4 mb-4 mb-xl-0">
+        <form>
+          <button type="submit" class="btn btn-secondary" style="color: black;">Book now</button>
+        </form>
+      </div>
+
+      <!-- Socials -->
+      <div id="social-icon" class="col-12 col-md-12 col-xl-4 text-center text-md-start text-xl-end">
+        <h3 class="text-dark mb-3">Socials</h3>
+        <div class="d-flex justify-content-center justify-content-md-start justify-content-xl-end gap-3">
+          <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Facebook">
+            <i class="fa-brands fa-square-facebook fa-2x"></i>
+          </a>
+          <a href="https://www.x.com" target="_blank" rel="noopener" aria-label="X">
+            <i class="fa-brands fa-x-twitter fa-2x"></i>
+          </a>
+          <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Instagram">
+            <i class="fa-brands fa-instagram fa-2x"></i>
+          </a>
         </div>
       </div>
+
     </div>
+  </div>
+</div>
 
     <!-- Bootstrap JS -->
     <script
