@@ -1,4 +1,4 @@
-# Mile stone project 1 
+# Milestone project 1 
 [My Project Link](https://aaronnnpf.github.io/restaurant-project/index.html)
 
 ## Introduction 
