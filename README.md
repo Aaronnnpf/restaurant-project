@@ -27,7 +27,7 @@ The purpose of this website is to allow for a more whole experiance when dining 
  ## Design
 
  ### Colour Scheme
- * The main colour scheme i went for on the project are a Very light Blue, White and Black.
+ * The main colour scheme i went for on the project are a Very Light Cyan, White and Black.
  * Black #000000
  * Light Cyan #E0FFFF
  * White #ffffff
