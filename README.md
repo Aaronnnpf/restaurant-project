@@ -23,3 +23,12 @@ The purpose of this website is to allow for a more whole experiance when dining 
  * As a frequent visitor, I want to find it easy to book a table.
  * As a frequent visitor, I want to find it easy to find parking in the local area.
  * As a frequent visitor, I want to be able to what dishes they specialise in. 
+
+ ## Design
+
+ ### Colour Scheme
+ * The main colour scheme i went for on the project are a Very light Blue, White and Black.
+ * Black #000000
+ * Light Cyan #E0FFFF
+ * White #ffffff
+
