@@ -1,4 +1,4 @@
-# Milestone project 1 
+e# Milestone project 1 
 [My Project Link](https://aaronnnpf.github.io/restaurant-project/index.html)
 
 ## Introduction 
@@ -18,3 +18,8 @@ The purpose of this website is to allow for a more whole experiance when dining 
 * As a returning visitor, Have an easy time booking a table.
 * As a returning visitor, Be able to navigate to there social media.  
  
+
+ 3. ### Frequent customer goals
+ * As a frequent visitor, I want to find it easy to book a table.
+ * As a frequent visitor, I want to find it easy to find parking in the local area.
+ * As a frequent visitor, I want to be able to what dishes they specialise in. 
