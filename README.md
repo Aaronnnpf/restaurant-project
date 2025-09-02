@@ -38,18 +38,18 @@ The purpose of this website is to allow for a more whole experiance when dining 
 ## Imagery
 [Pexels](https://www.pexels.com/) : Pexels images have been used in the project to show staff, dishes and hero image.
 
-* Hero Image : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/hero.jpg)
-* Icon : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/icon.png)
+* Hero Image : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/hero.jpg)
+* Icon : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/icon.png)
 ### Staff potraits 
-* Bartender : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/bartender.jpg)
-* Front of House : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/front-of-house.jpg)
-* Head Chef : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/head-chef.jpg)
-* Pasta Chef : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/pasta.jpg)
-* Family Dog : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/family-dog.jpg)
+* Bartender : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/bartender.jpg)
+* Front of House : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/front-of-house.jpg)
+* Head Chef : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/head-chef.jpg)
+* Pasta Chef : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/pasta.jpg)
+* Family Dog : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/family-dog.jpg)
 ### Speciality Dishes
-* Shrimp Linguine : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/shrimp-linguine.jpg)
-* Carbonara : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/carbanara.jpg)
-* Pizza : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/pizza-2.jpg)
+* Shrimp Linguine : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/shrimp-linguine.jpg)
+* Carbonara : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/carbanara.jpg)
+* Pizza : [view](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/pizza-2.jpg)
 
 ## Wireframes
 All wireframes were created using [balsamiq](https://balsamiq.com/) 
