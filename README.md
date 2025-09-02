@@ -32,3 +32,7 @@ The purpose of this website is to allow for a more whole experiance when dining 
  * Light Cyan #E0FFFF
  * White #ffffff
 
+### Typography 
+* The fonts used in this project are Inter and Nunito Sans 
+
+# Imagery
