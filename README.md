@@ -1,4 +1,4 @@
-e# Milestone project 1 
+# Milestone project 1 
 [My Project Link](https://aaronnnpf.github.io/restaurant-project/index.html)
 
 ## Introduction 
@@ -35,4 +35,33 @@ The purpose of this website is to allow for a more whole experiance when dining 
 ### Typography 
 * The fonts used in this project are Inter and Nunito Sans 
 
-# Imagery
+## Imagery
+[Pexels](https://www.pexels.com/) : Pexels images have been used in the project to show staff, dishes and hero image.
+
+* Hero Image : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/hero.jpg)
+* Icon : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/icon.png)
+### Staff potraits 
+* Bartender : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/bartender.jpg)
+* Front of House : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/front-of-house.jpg)
+* Head Chef : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/head-chef.jpg)
+* Pasta Chef : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/pasta.jpg)
+* Family Dog : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/family-dog.jpg)
+### Speciality Dishes
+* Shrimp Linguine : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/shrimp-linguine.jpg)
+* Carbonara : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/carbanara.jpg)
+* Pizza : (https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/pizza-2.jpg)
+
+## Wireframes
+All wireframes were created using [balsamiq](https://balsamiq.com/) 
+* Home page wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/restaurant-project-desktop.png) 
+* About us wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/restaurant-project-desktop-f.png)
+* Contact us wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/restaurant-project-desktop-b.png) 
+* Booking wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/restaurant-project-desktop-c.png) 
+* Home page **tablet** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/home-tablet.png)
+* About us **tablet** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/about-us-tablet.png)
+* Contact us **tablet** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/contact-tablet.png)
+* Booking **tablet** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/restaurant-project-tablet.png)
+* Home page **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/mobile-home-page.png)
+* About us **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/about-us-mobile.png)
+* Contact us **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/contact-mobile.png)
+* Booking **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/booking-mobile.png)
