@@ -65,3 +65,21 @@ All wireframes were created using [balsamiq](https://balsamiq.com/)
 * About us **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/about-us-mobile.png)
 * Contact us **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/contact-mobile.png)
 * Booking **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/booking-mobile.png)
+
+## Technologies used
+* HTML5
+* CSS3
+
+## Frameworks, Libaries & Programs
+1. [Bootstrap 5.3](https://getbootstrap.com/)
+* This was used to assist with the responsiveness and styling of the page.
+2. [Font Awesome](https://fontawesome.com/)
+* Font awesome allowed me to add icons for UX purposes.
+3. [Google Fonts](https://fonts.google.com/)
+* Google fonts allowed me to use fonts across all pages in my project.
+4. jQuery
+* This came with bootstrap and allowed my dropdown to work as it should.
+5. Git
+* This was used to to commit and push my project to github for safe storage.
+6. [Github](https://github.com/) 
+* THis was used to store my project and allow it to be deployed.
