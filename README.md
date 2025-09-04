@@ -82,7 +82,36 @@ All wireframes were created using [balsamiq](https://balsamiq.com/)
 5. Git
 * This was used to to commit and push my project to github for safe storage.
 6. [Github](https://github.com/) 
-* THis was used to store my project and allow it to be deployed.
+* This was used to store my project and allow it to be deployed.
+7. [Optimizilla](https://imagecompressor.com/)
+* This was used to compress my pictures to allow for better UX.
+8. [Online-Convert](https://www.online-convert.com/)
+* This was used to change my Jpeg Images to Webp to again enhance UX.
 
 ## Testing 
 ### Devtools
+
+Using Lighthouse on my project allowed me to collect the following for the performance of my site.
+
+My Desktop results 
+* Home - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-desktop.png)
+* About Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-desktop.png)
+* Contact Us -[View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-desktop.png)
+* Booking - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-desktop.png)
+
+My Mobile results
+* Home - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-mobile.png)
+* About Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-mobile.png)
+* Contact Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-mobile.png)
+* Booking - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-mobile.png)
+
+
+## Validator Testing 
+[WC3](https://validator.w3.org/) Was used to Validate my Markup.
+* Home - [View]()
+* About Us - [View]()
+* Contact Us - [View]()
+* Booking - [View]()
+
+[W3C](https://jigsaw.w3.org/css-validator/) Was used to Validate my CSS.
+* Styles - [View]()
