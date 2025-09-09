@@ -75,8 +75,8 @@ All wireframes were created using [balsamiq](https://balsamiq.com/)
 * Booking **mobile** wireframe - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/wireframes/booking-mobile.png)
 
 ## Technologies used
-* HTML5
-* CSS3
+* HTML5 [Link](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* CSS3 [Link](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Frameworks, Libaries & Programs
 1. [Bootstrap 5.3](https://getbootstrap.com/)
