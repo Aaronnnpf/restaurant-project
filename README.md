@@ -1,6 +1,8 @@
 # Milestone project 1 
 [My Project Link](https://aaronnnpf.github.io/restaurant-project/index.html)
 
+![site on different screen sizes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/site-in-test.png "different screen sizes")
+
 ## Introduction 
 This is a website I've built for 'Dolce Vito' a fictional restaurant based in Birmingham, West Midlands. Its function is to showcase the following pages; Speciality Dishes, History, Staff and bookings page. This project is built using HTML and CSS, allowng for an easy to navigate website that is responsive across mulitple screen sizes.
 
