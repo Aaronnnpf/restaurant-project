@@ -68,22 +68,22 @@
       </div>
     </section>
 
-    <!-- Booking Form -->
+      <!-- Booking Form -->
     <div class="container my-5">
-      <form>
+      <form action="confirmation.html" method="get" novalidate>
         <div class="mb-3">
           <label for="date-picker" class="form-label">Date</label>
-          <input type="date" class="form-control" id="date-picker" required>
+          <input type="date" class="form-control" id="date-picker"  name="date" required>
         </div>
 
         <div class="mb-3">
           <label for="full-name" class="form-label">Full Name</label>
-          <input type="text" class="form-control" id="full-name" required>
+          <input type="text" class="form-control" id="full-name" name="fullname" required>
         </div>
 
         <div class="mb-3">
           <label for="contact-number" class="form-label">Contact Number</label>
-          <input type="tel" class="form-control" id="contact-number" required>
+          <input type="tel" class="form-control" id="contact-number" name="contact" required>
         </div>
 
         <div class="mb-3">
@@ -92,6 +92,7 @@
             type="email"
             class="form-control"
             id="email-address"
+            name="email"
             required
           >
         </div>
@@ -99,18 +100,17 @@
         <div class="mb-3 form-check">
           <p>
             Please read
-            <a href="terms.html" class="link-primary">Terms and Conditions</a>
+            <a href="terms.html" class="link-danger">Terms and Conditions</a>
           </p>
           <input
             type="checkbox"
             class="form-check-input custom-checkbox"
             id="terms"
+            name="terms"
             required
           >
           <label class="form-check-label fw-bold" for="terms">Confirm</label>
         </div>
-      </form>
-      <form action="confirmation.html" method="get">
         <button type="submit" class="btn btn-primary">Book Now</button>
       </form>
     </div>
@@ -119,6 +119,7 @@
     <div class="container my-5">
       <div class="ratio ratio-16x9">
         <iframe
+          title="map"
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.07357978131!2d-1.8925990895458285!3d52.4778034548292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc8881167e0f%3A0x74d394afcdc773e2!2sEdgbaston%20St%2C%20Birmingham%20B5%205BB!5e0!3m2!1sen!2suk!4v1755513565059!5m2!1sen!2suk"
           style="border: 0"
           allowfullscreen
