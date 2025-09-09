@@ -147,6 +147,6 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 * Image formatting from Jpeg to Webp, was done via [Online-Convert](https://www.online-convert.com/).
 * Image Compression was done using [Optimizilla](https://imagecompressor.com/).
 
-## Acknowledgments
+## Acknowledgements
 * Huge thanks to Rory my Mentor for advice given through out the project.
 * Roman from student support for helping me make sense of issues and putting me back on track with his adivce. 
