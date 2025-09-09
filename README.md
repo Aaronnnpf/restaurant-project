@@ -2,14 +2,14 @@
 [My Project Link](https://aaronnnpf.github.io/restaurant-project/index.html)
 
 ## Introduction 
-This is a website ive built for 'Dolce Vito' a fictional restaurant based in Birmingham, West Midlands. Its function is to showcase (Speciality Dishes, History, Staff and to make bookings). This project is built using HTML and CSS, allowng for an easy to navigate website that is responsive across mulitple screen sizes.
+This is a website I've built for 'Dolce Vito' a fictional restaurant based in Birmingham, West Midlands. Its function is to showcase the following pages; Speciality Dishes, History, Staff and bookings page. This project is built using HTML and CSS, allowng for an easy to navigate website that is responsive across mulitple screen sizes.
 
 ## Purpose
-The purpose of this website is to allow for a more whole experiance when dining within by allowing you 'meet' virtually the staff and there speciality dishes, with is layout also to allow easy location finding and booking. 
+The purpose of this website is to allow for a more whole experience when dining within by allowing you 'meet' virtually the staff and their speciality dishes, with a layout to also allow easy location finding and booking. 
 
 ## User Experience
 1. ### First time customers
-* As a first time user, easy navigation is a must have to see what the site hs to offer.
+* As a first time user, easy navigation is a must to see what the site hs to offer.
 * As a first time user, to look at what food is avaialble and view reviews.  
 * As a first time user, I want the ease of being able to book, find the location and see what kind of parking is available through the map.
 
@@ -27,7 +27,7 @@ The purpose of this website is to allow for a more whole experiance when dining 
  ## Design
 
  ### Colour Scheme
- * The main colour scheme i went for on the project are a Very Light Cyan, White and Black.
+ * The main colour scheme i went for on the project was a Very Light Cyan, White and Black.
  * Black #000000
  * Light Cyan #E0FFFF
  * White #ffffff
@@ -149,4 +149,4 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 
 ## Acknowledgements
 * Huge thanks to Rory my Mentor for advice given through out the project.
-* Roman from student support for helping me make sense of issues and putting me back on track with his adivce. 
+* Roman from student support for helping me make sense of issues and putting me back on track with his advice. 
