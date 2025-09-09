@@ -39,6 +39,10 @@ The purpose of this website is to allow for a more whole experience when dining 
 ### Typography 
 * The fonts used in this project are Inter and Nunito Sans 
 
+![Inter](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/inter-font.png "Inter font")
+
+![Nunito sans](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/nunito-sans-font.png "nunito sans font")
+
 ## Imagery
 [Pexels](https://www.pexels.com/) : Pexels images have been used in the project to show staff, dishes and hero image.
 
