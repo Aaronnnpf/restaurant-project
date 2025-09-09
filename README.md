@@ -136,3 +136,17 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 ## Fixed Bugs 
 * Navbar wasnt collapsing properly on phone screens fixed by adding correct JS to end of code.
 * Footer was not compressing how i wanted it to, adding container elements and unique CSS targeting allowed me to fix this. 
+
+## Credits
+### Code
+* Gallery taken from [Pexels](https://www.pexels.com/).
+* Icon taken from [Freepik](https://www.freepik.com/icon/pasta_4714377#fromView=keyword&page=1&position=1&uuid=d730fcfb-e582-4e35-a78b-6db9a3e2230b).
+* Social media icons from [Font Awesome](https://fontawesome.com/).
+* Google Map Code was taken from [Here](https://www.google.com/maps/place/Birmingham+B5+5BB/@52.4768631,-1.896005,17z/data=!3m1!4b1!4m6!3m5!1s0x4870bc8887870e35:0x7645439f4fd95476!8m2!3d52.4768936!4d-1.8931256!16s%2Fg%2F1tmpjz7t?entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D).
+* Bootstrap drop down JS was taken from [Bootstrap](https://getbootstrap.com/docs/5.3/components/dropdowns/#menu-alignment).
+* Image formatting from Jpeg to Webp, was done via [Online-Convert](https://www.online-convert.com/).
+* Image Compression was done using [Optimizilla](https://imagecompressor.com/).
+
+## Acknowledgments
+* Huge thanks to Rory my Mentor for advice given through out the project.
+* Roman from student support for helping me make sense of issues and putting me back on track with his adivce. 
