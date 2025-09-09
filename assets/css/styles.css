@@ -181,6 +181,10 @@ h2 {
     border-color: #000000 !important;
   }
 
+  .container.o-background {
+    background: rgba(0, 0, 0, 0.5);
+  }
+
 /* Media Queries */
 
 @media (max-width: 991px) {
