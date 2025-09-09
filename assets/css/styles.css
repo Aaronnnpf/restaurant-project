@@ -32,13 +32,13 @@ h2 {
 }
 
 #hero h1,
-#hero h3 {
+#hero h2 {
     color: whitesmoke;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.9);
     font-weight: bold;
 }
 
-#hero h3 {
+#hero h2 {
     font-size: 1.2rem;
 }
 
