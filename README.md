@@ -34,6 +34,8 @@ The purpose of this website is to allow for a more whole experience when dining 
  * Light Cyan #E0FFFF
  * White #ffffff
 
+ ![colour palette](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/colours.png "colour palette")
+
 ### Typography 
 * The fonts used in this project are Inter and Nunito Sans 
 
