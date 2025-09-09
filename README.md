@@ -115,3 +115,24 @@ My Mobile results
 
 [W3C](https://jigsaw.w3.org/css-validator/) Was used to Validate my CSS.
 * Styles - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/css-validate.png)
+
+## Futher Testing
+I tested this webiste on 
+* Google Chrome
+* Microsoft Edge 
+
+The Webiste was tested on multiple screen sizes including...
+* Iphone 11
+* Iphone 12
+* Samsung Galaxy s22 Ultra
+* Ipad
+* Ipad Air
+* Desktop screen 32" (Msi Mag 32")
+* Desktop Screen 27" (Msi Mag 27")
+* Desktop Screen 25" (Samsung G4)
+
+Testing was done to ensure proper funcitionality of the site across multiple screen sizes. 
+
+## Fixed Bugs 
+* Navbar wasnt collapsing properly on phone screens fixed by adding correct JS to end of code.
+* Footer was not compressing how i wanted it to, adding container elements and unique CSS targeting allowed me to fix this. 
