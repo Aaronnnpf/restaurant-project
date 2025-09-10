@@ -290,6 +290,14 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 * Speciality Dishes
 ![Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
 
+## Development Process
+* I started the program and repository following the Code Institute tutorial video.
+* opening a new file and saving it as HTML.
+* I then used VScode to write my code starting with the boiler plate (!+Tab)
+* creating an Assets folder to place my CSS and Images id be using for the project.
+* From here i began writing my code and using (git add .) to stage my changes before moving on to commiting them with (git commit -m "insert commit message here") before pushing it to my repository using (git push).
+* With every push my Github repository would deploy my latest commit to the main branch.    
+
 ## Deployment 
 ### Github Pages
 The project was deployed using the following steps.
