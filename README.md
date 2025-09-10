@@ -11,8 +11,8 @@ The purpose of this website is to allow for a more whole experience when dining 
 
 ## User Experience
 1. ### First time customers
-* As a first time user, easy navigation is a must to see what the site hs to offer.
-* As a first time user, to look at what food is avaialble and view reviews.  
+* As a first time user, easy navigation is a must to see what the site has to offer.
+* As a first time user, to look at what food is available and view reviews.  
 * As a first time user, I want the ease of being able to book, find the location and see what kind of parking is available through the map.
 
 2. ### Returning customer goals
@@ -24,12 +24,12 @@ The purpose of this website is to allow for a more whole experience when dining 
  3. ### Frequent customer goals
  * As a frequent visitor, I want to find it easy to book a table.
  * As a frequent visitor, I want to find it easy to find parking in the local area.
- * As a frequent visitor, I want to be able to what dishes they specialise in. 
+ * As a frequent visitor, I want to be able to view what dishes they specialise in. 
 
  ## Design
 
  ### Colour Scheme
- * The main colour scheme i went for on the project was a Light Cyan, White and Black.
+ * The main colour scheme i went for on this project was a Light Cyan, White and Black.
  * Black #000000
  * Light Cyan #E0FFFF
  * White #ffffff
@@ -266,6 +266,29 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 * Footer was not compressing how i wanted it to, adding container elements and unique CSS targeting allowed me to fix this. 
 * H3 was used instead of h2 causing performance issues, changed to h2 lead display 6.
 * Colour contrast issue on my hero image with h1 and h2 to fix i added an opaque background to better the contrast and increase performance and accesibility. 
+
+## Testing User Experience (UX)
+* First time customer goals
+1. As a first time customer, easy navigation is a must so i can see what is on offer on the website.
+
+* Upon entering the site i can see that there is an easy to use navbar on all devices on mobile that being a dropdown and on desktop or tablet that being link tabs at the top. 
+
+* The Dolce Vito logo remains in the left corner when on page and is also a clickable link back to the home page.
+
+* The home page has an intro paragraph giving  me a brief summary of who they are, where they are from and what there inspiration is.
+
+* The home page also shows off some speciality dishes so a quick galance i can recognise what i would or would not like.
+
+* The About section is 2nd on the list and very clear againt the background on the drop down menu, This allows me to find out more about the staff and who they are.
+
+* Navigation
+![Navigation](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dropdown.png "Dropdown")
+
+* Intro
+![Intro](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/intro.png "Intro")
+
+* Speciality Dishes
+[Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
 
 ## Credits
 ### Code
