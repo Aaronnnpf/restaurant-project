@@ -324,13 +324,26 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 
 ![Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
 
-2. As a first time user id like to see what people think about there food.
+2. As a first time user I would like to see what people think about there food.
 * on thefront page are Reviews from customers and what they thought about our food.
 
 * Reviews
 
 ![Reviews](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/reviews.png "Reviews")
 
+3. As a first time user I would like ease of booking, The location and what parking facilities are available near by.
+
+* There is a "Book Now" button on the footer of each page that redirects you to the booking page.
+* On the contact and booking page there is a map inserted from google with out exact location, the address is also featured on each page within the footer and on the "contact us" page.
+* On the Contact page there is information about the local car parks and the distance to the restaurant and a time estimate. 
+
+![Book now]( "Book now")
+
+![Map]( "Map")
+
+![Address]( "Address")
+
+![Parking]( "Parking info")
 
 
 ## Development Process
