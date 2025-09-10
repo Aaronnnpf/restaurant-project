@@ -153,7 +153,6 @@ My Desktop results
 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-desktop.png "Contact us")
 
-
 * Booking: 
 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-desktop.png "Booking")
@@ -203,8 +202,8 @@ My Desktop results
 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-about-improved.png "about us")
 
-
 * Contact Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-contact-improved.png "Contact us")
 
 * Booking: 
