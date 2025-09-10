@@ -50,7 +50,7 @@ The purpose of this website is to allow for a more whole experience when dining 
 
 ![hero](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/hero.webp "Hero image")
 
-This image was chosen to represent the smell of home cooking when you walk in the door fo the resturant.
+This image was chosen to represent the smell of home cooking when you walk in the door of the resturant.
 
 * Icon:
 
@@ -84,7 +84,7 @@ I chose to put staff portraits in so that user can familiarise themselves with t
 
 ### Speciality Dishes
 
-My speciality dishes are on the front page allowing the user to see what dishes we specialise in and persude them to book and use other features of the website.
+My speciality dishes are on the front page allowing the user to see what dishes we specialise in and persuade them to book and use other features of the website.
 
 * Shrimp Linguine:
 
