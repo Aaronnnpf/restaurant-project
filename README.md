@@ -281,6 +281,8 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 
 * The About section is 2nd on the list and very clear againt the background on the drop down menu, This allows me to find out more about the staff and who they are.
 
+* There are reviews on the front page so that people can see what is thought about the restaurant and to also bring some confidence to booking a table at the restaurant. 
+
 * Navigation
 ![Navigation](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dropdown.png "Dropdown")
 
@@ -289,6 +291,14 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 
 * Speciality Dishes
 ![Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
+
+2. As a first time user id like to see what people think about there food.
+* on thefront page are Reviews from customers and what they thought about our food.
+
+* Reviews
+![Reviews](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/reviews.png "Reviews")
+
+
 
 ## Development Process
 * I started the program and repository following the Code Institute tutorial video.
