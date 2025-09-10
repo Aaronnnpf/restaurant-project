@@ -295,7 +295,7 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 * opening a new file and saving it as HTML.
 * I then used VScode to write my code starting with the boiler plate (!+Tab)
 * creating an Assets folder to place my CSS and Images id be using for the project.
-* From here i began writing my code and using (git add .) to stage my changes before moving on to commiting them with (git commit -m "insert commit message here") before pushing it to my repository using (git push).
+* From here I began writing my code and using (git add .) to stage my changes before moving on to commiting them with (git commit -m "insert commit message here") before pushing it to my repository using (git push).
 * With every push my Github repository would deploy my latest commit to the main branch.    
 
 ## Deployment 
@@ -306,8 +306,9 @@ The project was deployed using the following steps.
 2. At the top of the Repoisitory, Locate the "Settings" button.
 3. Scroll down the settings page and locate "Github Pages".
 4. Under "Source", Click the drop down option called "None" and select "Main Branch".
-5. THe page will automatically refresh.
+5. The page will automatically refresh.
 6. Scroll down and locate the published site link in the "Github pages" section. 
+7. Click the link to launch the live version of the site.
 
 ## Credits
 ### Code
