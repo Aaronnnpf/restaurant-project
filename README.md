@@ -284,18 +284,22 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 * There are reviews on the front page so that people can see what is thought about the restaurant and to also bring some confidence to booking a table at the restaurant. 
 
 * Navigation
+
 ![Navigation](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dropdown.png "Dropdown")
 
 * Intro
+
 ![Intro](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/intro.png "Intro")
 
 * Speciality Dishes
+
 ![Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
 
 2. As a first time user id like to see what people think about there food.
 * on thefront page are Reviews from customers and what they thought about our food.
 
 * Reviews
+
 ![Reviews](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/reviews.png "Reviews")
 
 
