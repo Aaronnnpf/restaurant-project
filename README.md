@@ -208,6 +208,7 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 
 ## Known bugs
 * My image sizes are to big and impact the performance of my site.
+* My book now button redirects without the required table being filled out.
 
 ## Fixed Bugs 
 * Navbar wasnt collapsing properly on phone screens fixed by adding correct JS to end of code.
