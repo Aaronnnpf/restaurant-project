@@ -29,7 +29,7 @@ The purpose of this website is to allow for a more whole experience when dining 
  ## Design
 
  ### Colour Scheme
- * The main colour scheme i went for on the project was a Very Light Cyan, White and Black.
+ * The main colour scheme i went for on the project was a Light Cyan, White and Black.
  * Black #000000
  * Light Cyan #E0FFFF
  * White #ffffff
@@ -166,7 +166,7 @@ My Mobile results
 * Booking: 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-mobile.png "Booking mobile")
 
-## Results after Improvemnets
+## Results after Improvements
 
 
 ## Validator Testing 

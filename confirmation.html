@@ -4,8 +4,74 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Booking Confirmation</title>
+
+    <!-- favicons tab icon -->
+    <link rel="icon" sizes="180x180" href="assets/images/icon.webp">
+
+    <!-- Bootstrap css -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+      crossorigin="anonymous">
+
+    <!-- Custom css -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
 </head>
-<body>
+  <body class="d-flex flex-column min-vh-100">
+    <!-- Navigation -->
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">
+          <img
+            src="assets/images/icon.webp"
+            alt="Dolce Vito logo"
+            class="logo">
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" href="index.html" aria-current="page"
+                >Home</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact Us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="booking.html">Booking</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Hero -->
+    <section id="hero" class="py-5 bg-light text-center">
+      <div class="container o-background">
+        <h1 class="display-3">Dolce Vito</h1>
+        <h2 class="lead display-6">
+          Taste the secrets of Italian home cooking
+        </h2>
+      </div>
+    </section>
+
+
     <main class="flex-grow-1 d-flex align-items-center justify-content-center">
     <div class="text-center p-5 bg-white rounded shadow-lg">
       <h1 class="text-success fw-bold">Booking Confirmed!</h1>
@@ -20,6 +86,82 @@
       <a href="booking.html" class="btn btn-outline-secondary mt-3">Make Another Booking</a>
     </div>
   </main>
+   <!-- Footer -->
+<footer class="footer bg-light py-4">
+  <div class="container">
+    <div class="row text-center text-md-start">
+      
+      <!-- Address and Contact -->
+      <div class="col-12 col-md-6 col-xl-4 mb-4 mb-xl-0">
+        <h2 class="h5 text-dark">Address and Contact</h2>
+        <address class="mb-3">
+          <p class="mb-1">1 Edgbaston St</p>
+          <p class="mb-1">Birmingham</p>
+          <p class="mb-1">B5 5BB</p>
+          <p class="mb-1">
+            <a href="mailto:DolceVito@food.com" class="text-dark text-decoration-none">
+              DolceVito@food.com
+            </a>
+          </p>
+          <p>
+            <a href="tel:012123456789" class="text-dark text-decoration-none">
+              0121 234 56789
+            </a>
+          </p>
+        </address>
+
+        <h2 class="h5 text-dark">Opening Hours</h2>
+        <p class="mb-0">Mon - Sat: 5pm - 11pm</p>
+        <p class="mb-0">Sun: Closed</p>
+      </div>
+
+      <!-- Book Now -->
+      <div id="book-btn" class="col-12 col-md-6 col-xl-4 mb-4 mb-xl-0 text-center">
+        <form action="booking.html" method="get" aria-label="Booking form">
+          <button type="submit" class="btn btn-secondary text-dark fw-bold">
+            Book Now
+          </button>
+        </form>
+      </div>
+
+      <!-- Socials -->
+      <div id="social-icon" class="col-12 col-md-12 col-xl-4 text-center text-md-start text-xl-end">
+        <h2 class="h5 text-dark mb-3">Follow Us</h2>
+        <nav aria-label="Social media links">
+          <ul class="list-inline d-flex justify-content-center justify-content-md-start justify-content-xl-end gap-3 mb-0">
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page">
+                <i class="fa-brands fa-square-facebook fa-2x" aria-hidden="true"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.x.com" target="_blank" rel="noopener" aria-label="Visit our X (Twitter) page">
+                <i class="fa-brands fa-x-twitter fa-2x" aria-hidden="true"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instagram page">
+                <i class="fa-brands fa-instagram fa-2x" aria-hidden="true"></i>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    <!-- Bootstrap JS -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://kit.fontawesome.com/904d127e1b.js"
+      crossorigin="anonymous"
+    ></script>
     
 </body>
 </html>
