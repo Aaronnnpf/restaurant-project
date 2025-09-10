@@ -153,6 +153,12 @@ My Desktop results
 * Booking: 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-desktop.png "Booking")
 
+* Terms:
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-terms-desktop.png "Terms")
+
+* Confirmation:
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-confirmation-desktop.png "Confirmation")
+
 My Mobile results
 * Home: 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-mobile.png "Index mobile")
@@ -165,6 +171,12 @@ My Mobile results
 
 * Booking: 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-mobile.png "Booking mobile")
+
+* Terms:
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-terms-mobile.png "Terms mobile")
+
+* Confirmation:
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-confirmation-mobile.png "Confirmation mobile")
 
 ## Results after Improvements
 
