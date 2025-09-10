@@ -263,6 +263,14 @@ My Mobile results
 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/booking-validation.png "Booking")
 
+* Terms:
+
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/terms-validate.png "Terms")
+
+* Confirmation:
+
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/confirmation-validate.png "Confirmation")
+
 [W3C](https://jigsaw.w3.org/css-validator/) Was used to Validate my CSS.
 
 * Styles: 
