@@ -343,6 +343,41 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 
 ![Parking](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/parking.png "Parking info")
 
+* Returning customer goals
+1. As a returning customer, I would like to be able to get to know the staff.
+* In the about us page are family photos and a small blog about ourselves so customers know who we are and what our roles in the restuarant, I also included a small paragraph at the top of the page so that the customer knows alittle more about us, where we came from and our inspiration.
+
+![Family](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/family.png "Family")
+
+![History](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/history.png "History")
+
+2. As a returning customer, I would like to have an easy time booking a table.
+* I have added a simple booking form with a redirect to T&C's and also a redirect to confirm the booking, there is a book now button on the footer of each page to direct you straight to the booking form.
+
+![Booking](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/booking-form.png "Booking")
+
+![Footer](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/footer.png "Footer")
+
+3. As a returning customer, I would like to be able to naviagte to the social media links with ease.
+* I have included the social media links in the footer of all pages and also on the contact page, Each social media Icon redirects you to the relevent page in an external link.
+
+![Social media](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/handles.png "Social media")
+
+* Frequent customer goals
+1. As a frequent customer, I would like to be able to book with ease.
+* I have included and book now button in footers across all pages.
+
+![Footer](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/footer.png "Footer")
+
+2. As a frequent customer, I would like to be able to find parking easy in the loacel area. 
+* I have included a google map and the address in the footer across all pages.
+
+![Map](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/google-map.png "Map")
+
+3. As a frequent customer, I would like to know what dieshes they specialise in. 
+* I have included 3 main speciality dishes on the home page, These being our best sellers and main speciality.
+
+![Speciality](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality")
 
 ## Development Process
 * I started the program and repository following the Code Institute tutorial video.
