@@ -288,7 +288,7 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 ![Intro](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/intro.png "Intro")
 
 * Speciality Dishes
-[Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
+![Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
 
 ## Credits
 ### Code
