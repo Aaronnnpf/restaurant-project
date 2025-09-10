@@ -391,13 +391,13 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 ### Github Pages
 The project was deployed using the following steps.
 
-1. Log in to Github and locate the Github Repoisitory.
+1. Log in to [Github](https://github.com/) and locate the [Github Repoisitory](https://github.com/Aaronnnpf/restaurant-project).
 2. At the top of the Repoisitory, Locate the "Settings" button.
 3. Scroll down the settings page and locate "Github Pages".
 4. Under "Source", Click the drop down option called "None" and select "Main Branch".
 5. The page will automatically refresh.
 6. Scroll down and locate the published site link in the "Github pages" section. 
-7. Click the link to launch the live version of the site.
+7. Click the [link](https://github.com/Aaronnnpf/restaurant-project/deployments/github-pages) to launch the live version of the site.
 
 ## Credits
 ### Code
