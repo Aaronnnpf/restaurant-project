@@ -142,40 +142,52 @@ Using Lighthouse on my project allowed me to collect the following for the perfo
 
 My Desktop results
 * Home: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-desktop.png "Index")
 
 * About Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-desktop.png "about us")
 
 * Contact Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-desktop.png "Contact us")
+
 
 * Booking: 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-desktop.png "Booking")
 
 * Terms:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-terms-desktop.png "Terms")
 
 * Confirmation:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-confirmation-desktop.png "Confirmation")
 
 My Mobile results
 * Home: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-mobile.png "Index mobile")
 
 * About Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-mobile.png "About us mobile")
 
 * Contact Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-mobile.png "Contact us mobile")
 
 * Booking: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-mobile.png "Booking mobile")
 
 * Terms:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-terms-mobile.png "Terms mobile")
 
 * Confirmation:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-confirmation-mobile.png "Confirmation mobile")
 
 ## Results after Improvements
@@ -183,21 +195,27 @@ These are the results after going over my code and making the necessary changes.
 
 My Desktop results
 * Home: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-home-improved.png "Index")
 
 * About Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-about-improved.png "about us")
+
 
 * Contact Us: 
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-contact-improved.png "Contact us")
 
 * Booking: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-booking-improved.png "Booking")
 
 * Terms:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-terms-improved.png "Terms")
 
 * Confirmation:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/desktop-confirm-improved.png "Confirmation")
 
 My Mobile results
