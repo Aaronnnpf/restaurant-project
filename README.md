@@ -290,6 +290,17 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 * Speciality Dishes
 ![Speciality Dishes](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/dishes.png "Speciality dishes")
 
+## Deployment 
+### Github Pages
+The project was deployed using the following steps.
+
+1. Log in to Github and locate the Github Repoisitory.
+2. At the top of the Repoisitory, Locate the "Settings" button.
+3. Scroll down the settings page and locate "Github Pages".
+4. Under "Source", Click the drop down option called "None" and select "Main Branch".
+5. THe page will automatically refresh.
+6. Scroll down and locate the published site link in the "Github pages" section. 
+
 ## Credits
 ### Code
 * Gallery taken from [Pexels](https://www.pexels.com/).
