@@ -49,11 +49,19 @@ The purpose of this website is to allow for a more whole experience when dining 
 * Hero Image:
 
 ![hero](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/hero.webp "Hero image")
+
+This image was chosen to represent the smell of home cooking when you walk in the door fo the resturant.
+
 * Icon:
 
 ![icon](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/icon.webp "Icon image")
 
-### Staff potraits 
+Identifies the cuisine type (Italian) very straight forward.
+
+### Staff portraits 
+
+I chose to put staff portraits in so that user can familiarise themselves with the staff they will meet upon arrival, Allowing for a more relaxed approach as they know who is who and helps them feel more like family adding to the overall experiance.
+
 * Bartender:
 
 ![bartender](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/bartender.webp "Bartender image")
@@ -75,6 +83,9 @@ The purpose of this website is to allow for a more whole experience when dining 
 ![family dog](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/family-dog.webp "family dog image")
 
 ### Speciality Dishes
+
+My speciality dishes are on the front page allowing the user to see what dishes we specialise in and persude them to book and use other features of the website.
+
 * Shrimp Linguine:
 
 ![shrimp linguine](https://github.com/Aaronnnpf/restaurant-project/blob/main/assets/images/shrimp-linguine.webp "Shrimp linguine image")
