@@ -140,28 +140,53 @@ All wireframes were created using [balsamiq](https://balsamiq.com/)
 
 Using Lighthouse on my project allowed me to collect the following for the performance of my site.
 
-My Desktop results 
-* Home - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-desktop.png)
-* About Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-desktop.png)
-* Contact Us -[View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-desktop.png)
-* Booking - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-desktop.png)
+My Desktop results
+* Home: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-desktop.png "Index")
+
+* About Us: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-desktop.png "about us")
+
+* Contact Us: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-desktop.png "Contact us")
+
+* Booking: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-desktop.png "Booking")
 
 My Mobile results
-* Home - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-mobile.png)
-* About Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-mobile.png)
-* Contact Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-mobile.png)
-* Booking - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-mobile.png)
+* Home: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-mobile.png "Index mobile")
+
+* About Us: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-about-mobile.png "About us mobile")
+
+* Contact Us: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-contact-mobile.png "Contact us mobile")
+
+* Booking: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-mobile.png "Booking mobile")
+
+## Results after Improvemnets
 
 
 ## Validator Testing 
 [WC3](https://validator.w3.org/) Was used to Validate my Markup.
-* Home - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/index-valid.png)
-* About Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/about-us-valid.png)
-* Contact Us - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/contact-validation.png)
-* Booking - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/booking-validation.png)
+
+* Home: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/index-valid.png "index")
+
+* About Us: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/about-us-valid.png "About us")
+
+* Contact Us: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/contact-validation.png "Contact us")
+
+* Booking: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/booking-validation.png "Booking")
 
 [W3C](https://jigsaw.w3.org/css-validator/) Was used to Validate my CSS.
-* Styles - [View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/css-validate.png)
+* Styles: 
+![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/css-validate.png "CSS")
 
 ## Futher Testing
 I tested this webiste on 
