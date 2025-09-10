@@ -212,7 +212,7 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 ## Fixed Bugs 
 * Navbar wasnt collapsing properly on phone screens fixed by adding correct JS to end of code.
 * Footer was not compressing how i wanted it to, adding container elements and unique CSS targeting allowed me to fix this. 
-* H3 was used instead of h2 causing performance issues, changed to h2 lead h6.
+* H3 was used instead of h2 causing performance issues, changed to h2 lead display 6.
 * Colour contrast issue on my hero image with h1 and h2 to fix i added an opaque background to better the contrast and increase performance and accesibility. 
 
 ## Credits
