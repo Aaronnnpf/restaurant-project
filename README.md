@@ -202,21 +202,27 @@ My Desktop results
 
 My Mobile results
 * Home: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/mobile-home-improved.png "Index mobile")
 
 * About Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/mobile-about-improved.png "About us mobile")
 
 * Contact Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/mobile-contact-improved.png "Contact us mobile")
 
 * Booking: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/mobile-booking-improved.png "Booking mobile")
 
 * Terms:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/mobile-terms-improved.png "Terms mobile")
 
 * Confirmation:
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/improved/mobile-confirm-improved.png "Confirmation mobile")
 
 
@@ -224,20 +230,25 @@ My Mobile results
 [WC3](https://validator.w3.org/) Was used to Validate my Markup.
 
 * Home: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/index-valid.png "index")
 
 * About Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/about-us-valid.png "About us")
 
 * Contact Us: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/contact-validation.png "Contact us")
 
 * Booking: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/booking-validation.png "Booking")
 
 [W3C](https://jigsaw.w3.org/css-validator/) Was used to Validate my CSS.
 
 * Styles: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/validation/css-validate.png "CSS")
 
 ## Futher Testing
