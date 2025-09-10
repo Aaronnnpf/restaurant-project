@@ -337,13 +337,11 @@ Testing was done to ensure proper funcitionality of the site across multiple scr
 * On the contact and booking page there is a map inserted from google with out exact location, the address is also featured on each page within the footer and on the "contact us" page.
 * On the Contact page there is information about the local car parks and the distance to the restaurant and a time estimate. 
 
-![Book now]( "Book now")
+![Book now](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/footer.png "Book now")
 
-![Map]( "Map")
+![Map](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/google-map.png "Map")
 
-![Address]( "Address")
-
-![Parking]( "Parking info")
+![Parking](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/readme/parking.png "Parking info")
 
 
 ## Development Process
