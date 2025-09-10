@@ -155,6 +155,7 @@ My Desktop results
 
 
 * Booking: 
+
 ![View](https://github.com/Aaronnnpf/restaurant-project/blob/main/docs/lighthouse/lighthouse-booking-desktop.png "Booking")
 
 * Terms:
